@@ -1,5 +1,6 @@
 # Toronto DAO - ETH Waterloo 2023
 
+## Description
 
 This is our hackathon submission to ETH Waterloo 2023 by the Toronto DAO team. 
 
