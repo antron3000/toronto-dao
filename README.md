@@ -4,8 +4,8 @@
 This is our hackathon submission to ETH Waterloo 2023 by the Toronto DAO team. 
 
 Our team won 
-* 3rd Place Gnosis chain, best use case, for $2000
 * 1st Place Nouns DAO - best public goods for $3000 
+* 3rd Place Gnosis chain, best use case, for $2000
 
 This code demonstrates a membership signup and a reputation scoring system. Our aim is to build something a little bit more fair and balanced than just 1 membership = 1 vote, or 1 token = 1 vote. 
 
